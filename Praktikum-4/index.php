@@ -25,7 +25,7 @@
                         <div class="card mb-4">
                             <div class="card-body">
                                 <p class="mb-0">
-                                    Hello nama saya supriyatna dari angkatan 2023
+                                    Hello nama saya Supriyatna, saya angkatan 2023
                                 </p>
                             </div>
                         </div>
